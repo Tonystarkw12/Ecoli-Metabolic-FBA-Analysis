@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  fba-analysis:
+    build: .
+    container_name: ecoli-fba-analysis
+    volumes:
+      # 挂载数据目录（可选，便于外部访问模型文件）
+      - ./data:/app/data
+      # 挂载结果目录（持久化分析结果）
+      - ./results:/app/results
+    environment:
+      - PYTHONUNBUFFERED=1
+    # 如果有数据文件，直接运行；否则会提示下载
+    command: python src/main.py
+    # 资源限制（可根据需要调整）
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+
+# 使用说明：
+# 1. 构建并运行: docker-compose up --build
+# 2. 仅运行: docker-compose up
+# 3. 后台运行: docker-compose up -d
+# 4. 查看日志: docker-compose logs -f
+# 5. 停止服务: docker-compose down
