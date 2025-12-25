@@ -1,0 +1,440 @@
+﻿reaction_id,flux_value,reaction_name
+ATPS4rpp,55.815247399842335,ATP synthase (four protons for one ATP) (periplasm)
+H2Otpp,-45.61943037003516,H2O transport via diffusion (periplasm)
+EX_h2o_e,45.61943037003516,H2O exchange
+H2Otex,-45.619430370035154,H2O transport via diffusion (extracellular to periplasm)
+CYTBO3_4pp,35.14953949465206,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp,31.02172306721888,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+CO2tex,-19.675222635663165,CO2 transport via diffusion (extracellular to periplasm)
+CO2tpp,-19.675222635663165,CO2 transporter via diffusion (periplasm)
+EX_co2_e,19.675222635663165,CO2 exchange
+O2tpp,17.57893353025427,O2 transport via diffusion (periplasm)
+O2tex,17.57893353025427,Oxygen transport via diffusion (extracellular to periplasm)
+EX_o2_e,-17.57893353025427,O2 exchange
+GAPD,16.274774634589466,Glyceraldehyde-3-phosphate dehydrogenase
+PGK,-16.274774634589466,Phosphoglycerate kinase
+ENO,14.586890401186793,Enolase
+PGM,-14.586890401186793,Phosphoglycerate mutase
+NH4tpp,10.610425051825148,Ammonia reversible transport (periplasm)
+NH4tex,10.610425051825148,Ammonia transport via diffusion (extracellular to periplasm)
+EX_nh4_e,-10.610425051825148,Ammonia exchange
+GLCtex_copy1,10.000000000000004,Glucose transport via diffusion (extracellular to periplasm)
+GLCptspp,10.000000000000004,D-glucose transport via PEP:Pyr PTS (periplasm)
+EX_glc__D_e,-10.0,D-Glucose exchange
+EX_h_e,9.02626012559603,H+ exchange
+Htex,-9.026260125596028,Proton transport via diffusion (extracellular to periplasm)
+GLUDy,-8.400956398685956,Glutamate dehydrogenase (NADP)
+PDH,7.969186891483091,Pyruvate dehydrogenase
+FBA,7.78418597772905,Fructose-bisphosphate aldolase
+PFK,7.784185977729049,Phosphofructokinase
+TPI,7.6453709463598525,Triose-phosphate isomerase
+PGI,5.918065146483453,Glucose-6-phosphate isomerase
+CS,4.857776644226278,Citrate synthase
+ACONTb,4.857776644226277,"Aconitase (half-reaction B, Isocitrate hydro-lyase)"
+ACONTa,4.857776644226277,"Aconitase (half-reaction A, Citrate hydro-lyase)"
+ICDHyr,4.857776644226276,Isocitrate dehydrogenase (NADP)
+FUM,4.825998880828238,Fumarase
+MDH,4.825277819917696,Malate dehydrogenase
+SUCDi,4.127159220690467,Succinate dehydrogenase (irreversible)
+G6PDH2r,4.08193485351655,Glucose 6-phosphate dehydrogenase
+GND,4.081934853516549,Phosphogluconate dehydrogenase
+PGL,4.081934853516549,6-phosphogluconolactonase
+AKGDH,3.801538330156734,2-Oxogluterate dehydrogenase
+PPK,-3.4418260946084986,Polyphosphate kinase
+SUCOAS,-3.2859306605288534,Succinyl-CoA synthetase (ADP-forming)
+ATPM,3.15,ATP maintenance requirement
+PPC,2.907189882968074,Phosphoenolpyruvate carboxylase
+ASPTA,-2.876069326312749,Aspartate transaminase
+FADRx,2.147356721721766,FAD reductase
+RPI,-2.0838893467962207,Ribose-5-phosphate isomerase
+RPE,1.9589431790865444,Ribulose 5-phosphate 3-epimerase
+GLNS,1.7786971397007054,Glutamine synthetase
+PGCD,1.6878842334026756,Phosphoglycerate dehydrogenase
+PSERT,1.6878842334026756,Phosphoserine transaminase
+PSP_L,1.6878842334026753,Phosphoserine phosphatase (L-serine)
+ADK1,1.6622428555327697,Adenylate kinase
+TKT1,1.166781405447737,Transketolase
+TALA,1.1667814054477363,Transaldolase
+GHMT2r,1.09581660084663,"Glycine hydroxymethyltransferase, reversible"
+ASAD,-1.050230128062903,Aspartate-semialdehyde dehydrogenase
+ASPK,1.0502301280629027,Aspartate kinase
+BIOMASS_Ec_iJO1366_core_53p95M,0.9823718127269743,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+MTHFC,0.9713309359237853,Methenyltetrahydrofolate cyclohydrolase
+MTHFD,0.9713309359237853,Methylenetetrahydrofolate dehydrogenase (NADP)
+PIt2rpp,0.9476263040826951,Phosphate reversible transport via symport (periplasm)
+EX_pi_e,-0.9476263040826951,Phosphate exchange
+PItex,0.9476263040826951,Phosphate transport via diffusion (extracellular to periplasm)
+PPM,-0.9171079413484833,Phosphopentomutase
+R1PK,0.916446805118519,Ribose 1-phosphokinase
+R15BPK,0.9164468051185188,"Ribose-1,5-bisphosphokinase"
+PYK,0.8653751925204419,Pyruvate kinase
+ACLS,0.8588572223409993,Acetolactate synthase
+KARA1,-0.8588572223409993,"Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)"
+DHAD1,0.8588572223409991,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)"
+TKT2,0.7921617736388068,Transketolase
+NDPK1,0.7766877144372913,Nucleoside-diphosphate kinase (ATP:GDP)
+HSDy,-0.6858202865036443,Homoserine dehydrogenase (NADPH)
+CBMKr,0.6155414070211568,Carbamate kinase
+PTAr,-0.5723062411712299,Phosphotransacetylase
+ACKr,0.5723062411712299,Acetate kinase
+ALATA_L,-0.571107747559703,L-alanine transaminase
+THRS,0.5346224584350231,Threonine synthase
+HSK,0.534622458435023,Homoserine kinase
+IMPC,-0.533185248473031,IMP cyclohydrolase
+AICART,0.533185248473031,Phosphoribosylaminoimidazolecarboxamide formyltransferase
+HCO3E,0.5165753058634419,HCO3 equilibration reaction
+IPPS,0.44258895515969665,2-isopropylmalate synthase
+IPPMIb,-0.4425889551596966,2-isopropylmalate hydratase
+LEUTAi,0.4425889551596966,Leucine transaminase (irreversible)
+IPMD,0.4425889551596966,3-isopropylmalate dehydrogenase
+IPPMIa,-0.4425889551596966,3-isopropylmalate dehydratase
+OMCDC,0.4425889551596966,2-Oxo-4-methyl-3-carboxypentanoate decarboxylation
+PRAIS,0.440336376593141,Phosphoribosylaminoimidazole synthase
+PRAGSr,0.440336376593141,Phosphoribosylglycinamide synthase
+GLUPRT,0.44033637659314095,Glutamine phosphoribosyldiphosphate amidotransferase
+PRFGS,0.44033637659314095,Phosphoribosylformylglycinamidine synthase
+ADSL2r,0.4401173076789029,Adenylosuccinate lyase
+PRASCSi,0.4401173076789029,Phosphoribosylaminoimidazolesuccinocarboxamide synthase
+AIRC2,0.44011730767890284,Phosphoribosylaminoimidazole carboxylase
+AIRC3,-0.44011730767890284,Phosphoribosylaminoimidazole carboxylase (mutase rxn)
+GARFT,0.43792661853651615,Phosphoribosylglycinamide formyltransferase
+NDPK2,0.41778603163196576,Nucleoside-diphosphate kinase (ATP:UDP)
+VALTA,-0.41570242101717186,Valine transaminase
+DDPA,0.37440056289469187,3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase
+DHQTi,0.37440056289469187,"3-dehydroquinate dehydratase, irreversible"
+DHQS,0.37440056289469187,3-dehydroquinate synthase
+PSCVT,0.3744005628946918,3-phosphoshikimate 1-carboxyvinyltransferase
+SHK3Dr,0.3744005628946918,Shikimate dehydrogenase
+SHKK,0.3744005628946918,Shikimate kinase
+CHORS,0.3744005628946918,Chorismate synthase
+UMPK,0.37137485771149253,UMP kinase
+DHDPRy,0.36440984155925854,Dihydrodipicolinate reductase (NADPH)
+SDPTA,-0.3644098415592585,Succinyldiaminopimelate transaminase
+DHDPS,0.3644098415592585,Dihydrodipicolinate synthase
+DAPE,0.3644098415592585,Diaminopimelate epimerase
+SDPDS,0.3644098415592585,Succinyl-diaminopimelate desuccinylase
+THDPS,0.3644098415592585,Tetrahydrodipicolinate succinylase
+ECOAH5,0.3496064807132757,3-hydroxyacyl-CoA dehydratase (3-hydroxydodecanoyl-CoA)
+ACOAD5f,-0.34960648071327566,Acyl-CoA dehydrogenase (dodecanoyl-CoA)
+ACOAD4f,-0.34960648071327566,Acyl-CoA dehydrogenase (decanoyl-CoA)
+HACD5,0.34960648071327566,3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA)
+ACACT5r,0.34960648071327566,Acetyl-CoA C-acyltransferase (decanoyl-CoA) (r)
+HACD4,0.3496064807132756,3-hydroxyacyl-CoA dehydrogenase (3-oxodecanoyl-CoA)
+ECOAH4,0.3496064807132756,3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA)
+ACACT4r,0.3496064807132756,Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r)
+ECOAH3,0.34960648071327555,3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)
+ACOAD3f,-0.34960648071327555,Acyl-CoA dehydrogenase (octanoyl-CoA)
+ACACT1r,0.34960648071327555,Acetyl-CoA C-acetyltransferase
+HACD3,0.34960648071327555,3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)
+ECOAH2,0.3496064807132755,3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)
+ACOAD2f,-0.3496064807132755,Acyl-CoA dehydrogenase (hexanoyl-CoA)
+ECOAH1,0.3496064807132755,3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)
+HACD1,0.34960648071327544,3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)
+ACOAD1f,-0.34960648071327544,Acyl-CoA dehydrogenase (butanoyl-CoA)
+ACACT3r,0.34960648071327544,Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r)
+ACACT2r,0.34960648071327544,Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r)
+HACD2,0.34960648071327544,3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)
+DAPDC,0.3371116936272012,Diaminopimelate decarboxylase
+DHORDfum,0.32496368379101936,Fumarate dependent DHORD
+OMPDC,0.3249636837910193,Orotidine-5'-phosphate decarboxylase
+ASPCT,0.3249636837910193,Aspartate carbamoyltransferase
+DHORTS,-0.3249636837910193,Dihydroorotase
+ORPT,-0.3249636837910193,Orotate phosphoribosyltransferase
+CHORM,0.3176833262868999,Chorismate mutase
+ADSL1r,0.29376551976246346,Adenylsuccinate lyase
+ADSS,0.29376551976246346,Adenylosuccinate synthase
+ACGK,0.2905777232301373,Acetylglutamate kinase
+ACODA,0.2905777232301373,Acetylornithine deacetylase
+ARGSS,0.2905777232301373,Argininosuccinate synthase
+ACGS,0.2905777232301373,N-acetylglutamate synthase
+OCBT,0.2905777232301373,Ornithine carbamoyltransferase
+AGPR,-0.29057772323013725,N-acetyl-g-glutamyl-phosphate reductase
+ACOTA,-0.29057772323013725,Acetylornithine transaminase
+ARGSL,0.29057772323013725,Argininosuccinate lyase
+KARA2,0.28540750037975515,Ketol-acid reductoisomerase (2-Acetolactate)
+ILETA,-0.2854075003797551,Isoleucine transaminase
+DHAD2,0.2854075003797551,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)"
+THRD_L,0.2854075003797551,L-threonine deaminase
+ACHBS,0.2854075003797551,2-aceto-2-hydroxybutanoate synthase
+ECOAH7,0.27315437675961174,3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA)
+HACD7,0.2731543767596117,3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA)
+ACACT7r,0.2731543767596117,Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r)
+ACACT6r,0.2731543767596117,Acetyl-CoA C-acyltransferase (dodecanoyl-CoA) (r)
+ACOAD6f,-0.27315437675961163,Acyl-CoA dehydrogenase (tetradecanoyl-CoA)
+ECOAH6,0.27315437675961163,3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA)
+HACD6,0.27315437675961163,3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA)
+SO4t2pp,0.2477639948878701,Sulfate transport in via proton symport (periplasm to cytoplasm)
+SO4tex,0.2477639948878701,Sulfate transport via diffusion (extracellular to periplasm)
+EX_so4_e,-0.2477639948878701,Sulfate exchange
+CYSS,0.24350246596426062,Cysteine synthase
+SERAT,0.24350246596426056,Serine O-acetyltransferase
+SULR,0.24350246596426056,Sulfite reductase (NADPH2)
+TRDR,0.24350246596426056,Thioredoxin reductase (NADPH)
+PAPSR,0.24350246596426053,Phosphoadenylyl-sulfate reductase (thioredoxin)
+BPNT,0.24350246596426053,"3',5'-bisphosphate nucleotidase"
+ADSK,0.2435024659642605,Adenylyl-sulfate kinase
+SADT2,0.2435024659642605,Sulfate adenyltransferase
+GK1,0.23941972871056766,Guanylate kinase (GMP:ATP)
+IMPD,0.23941972871056763,IMP dehydrogenase
+GMPS2,0.23941972871056763,GMP synthase
+ASNS2,0.23680563731690085,Asparagine synthetase
+P5CR,0.21715820106236133,Pyrroline-5-carboxylate reductase
+G5SD,0.21715820106236133,Glutamate-5-semialdehyde dehydrogenase
+GLU5K,0.2171582010623613,Glutamate 5-kinase
+G5SADs,0.2171582010623613,L-glutamate 5-semialdehyde dehydratase (spontaneous)
+Kt2pp,0.1917521012416163,Potassium transport in via proton symport (periplasm)
+Ktex,0.1917521012416163,Potassium transport via diffusion (extracellular to periplasm)
+EX_k_e,-0.1917521012416163,K+ exchange
+PPNDH,0.18199911388486295,Prephenate dehydratase
+PHETA1,-0.18199911388486295,Phenylalanine transaminase
+CYTK1,0.17771597278137338,Cytidylate kinase (CMP)
+NDPK3,0.17771597278137335,Nucleoside-diphosphate kinase (ATP:CDP)
+CTPS2,0.15769523523799742,CTP synthase (glutamine)
+MTHFR2,0.1516379306407226,"5,10-methylenetetrahydrofolate reductase (NADH)"
+METS,0.1516379306407226,Methionine synthase
+CYSTL,0.1511978280686213,Cystathionine b-lyase
+SHSL1,0.15119782806862128,O-succinylhomoserine lyase (L-cysteine)
+HSST,0.15119782806862125,Homoserine O-succinyltransferase
+AACPS4,0.14777622704489335,Acyl-[acyl-carrier-protein] synthetase  (n-C16:1)
+FACOAE161,0.14777622704489335,Fatty-acid-CoA thioesterase (hexadecenoate)
+CTECOAI7,-0.14777622704489335,3-cis-2-trans-enoyl-CoA isomerase
+G3PD2,-0.1365771883798058,Glycerol-3-phosphate dehydrogenase (NADP)
+PPND,0.13568421240203696,Prephenate dehydrogenase
+TYRTA,-0.13568421240203696,Tyrosine transaminase
+AACPS3,0.12537814971471836,Acyl-[acyl-carrier-protein] synthetase  (n-C16:0)
+ACOAD7f,-0.12537814971471836,Acyl-CoA dehydrogenase (hexadecanoyl-CoA)
+FACOAE160,0.12537814971471836,Fatty-acid-CoA thioesterase (hexadecanoate)
+POR5,0.10683784649312215,Pyruvate synthase
+PRMICI,0.0930679407941281,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase
+HSTPT,0.0930679407941281,Histidinol-phosphate transaminase
+HISTD,0.0930679407941281,Histidinol dehydrogenase
+IGPDH,0.0930679407941281,Imidazoleglycerol-phosphate dehydratase
+IG3PS,0.0930679407941281,Imidazole-glycerol-3-phosphate synthase
+PRAMPC,0.09306794079412808,Phosphoribosyl-AMP cyclohydrolase
+HISTP,0.09306794079412808,Histidinol-phosphatase
+PRATPP,0.09306794079412807,Phosphoribosyl-ATP pyrophosphatase
+ATPPRT,0.09306794079412807,ATP phosphoribosyltransferase
+UAGDP,0.09282234784094638,UDP-N-acetylglucosamine diphosphorylase
+GF6PTA,0.09282234784094638,Glutamine-fructose-6-phosphate transaminase
+G1PACT,0.09282234784094637,Glucosamine-1-phosphate N-acetyltransferase
+PGAMT,-0.09282234784094637,Phosphoglucosamine mutase
+ACCOAC,0.07645799818453913,Acetyl-CoA carboxylase
+MCOATA,0.07645603344091441,Malonyl-CoA-ACP transacylase
+3OAR140,0.0764521039536641,3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:0)
+FACOAE120,0.0764521039536641,Fatty-acid-CoA thioesterase (dodecanoate)
+3OAS140,0.07645210395366409,3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:0)
+AACPS7,0.07645210395366409,Acyl-[acyl-carrier-protein] synthetase  (n-C12:0)
+G3PAT161,0.07388811352244667,Glycerol-3-phosphate acyltransferase (C16:1)
+PSD161,0.07388811352244666,Phosphatidylserine decarboxylase (n-C16:1)
+PSSA161,0.07388811352244666,Phosphatidylserine syntase (n-C16:1)
+AGPAT161,0.07388811352244666,1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1)
+DASYN161,0.07388811352244666,CDP-diacylglycerol synthetase (n-C16:1)
+G3PAT160,0.06268907485735917,Glycerol-3-phosphate acyltransferase (C16:0)
+PSD160,0.06268907485735915,Phosphatidylserine decarboxylase (n-C16:0)
+PSSA160,0.06268907485735915,Phosphatidylserine syntase (n-C16:0)
+AGPAT160,0.06268907485735915,1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)
+DASYN160,0.06268907485735915,CDP-diacylglycerol synthetase (n-C16:0)
+TRPAS2,-0.0558409609508394,Tryptophanase (L-tryptophan)
+IGPS,0.0558409609508394,Indole-3-glycerol-phosphate synthase
+PRAIi,0.055840960950839395,Phosphoribosylanthranilate isomerase (irreversible)
+ANPRT,0.055840960950839395,Anthranilate phosphoribosyltransferase
+TRPS3,0.055840960950839395,Tryptophan synthase (indoleglycerol phosphate)
+ANS,0.05584096095083939,Anthranilate synthase
+GLYCL,0.0536419216480608,Glycine Cleavage System
+PE160abcpp,0.045136055307553574,"Phosphatidylethanolamine transport via ABC system (n-C16:0, periplasm)"
+ALAR,0.04094722189808572,Alanine racemase
+UAGAAT,0.03822605197683205,UDP-N-acetylglucosamine acyltransferase
+U23GAAT,0.03822605197683204,UDP-3-O-(3-hydroxymyristoyl)glucosamine acyltransferase
+UHGADA,0.03822605197683204,UDP-3-O-acetylglucosamine deacetylase
+A5PISO,0.038226051976832036,Arabinose-5-phosphate isomerase
+KDOPS,0.038226051976832036,3-deoxy -D-manno-octulosonic -acid 8-phosphate synthase
+KDOCT2,0.038226051976832036,3-deoxy-manno-octulosonate cytidylyltransferase
+KDOPP,0.03822605197683203,3-deoxy-manno-octulosonate-8-phosphatase
+UAGCVT,0.027298147932057173,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UAAGDS,0.027298147932057173,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase"
+UAPGR,0.027298147932057173,UDP-N-acetylenolpyruvoylglucosamine reductase
+UAMAS,0.027298147932057173,UDP-N-acetylmuramoyl-L-alanine synthetase
+UAMAGS,0.027298147932057173,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+GLUR,-0.027298147932057173,Glutamate racemase
+ALAALAr,0.02729814793205717,D-alanine-D-alanine ligase (reversible)
+UGMDDS,0.02729814793205717,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase"
+PAPPT3,0.027298147932057166,"Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)"
+UDCPDP,0.027298147932057166,Undecaprenyl-diphosphatase
+UAGPT3,0.027298147932057166,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+RNTR2c2,0.026540739264444668,Ribonucleoside-triphosphate reductase (GTP) (flavodoxin)
+RNTR3c2,0.026540739264444668,Ribonucleoside-triphosphate reductase (CTP) (flavodoxin)
+DHFR,0.026361947594528486,Dihydrofolate reductase
+RNTR4c2,0.025704740851814012,Ribonucleoside-triphosphate reductase (UTP) (flavodoxin)
+TMDS,0.025704740851814012,Thymidylate synthase
+DTMPK,0.025704740851814012,DTMP kinase
+DUTPDP,0.025704740851814012,DUTP diphosphatase
+RNTR1c2,0.02570474085181401,Ribonucleoside-triphosphate reductase (ATP) (flavodoxin)
+NDPK4,0.02570474085181401,Nucleoside-diphosphate kinase (ATP:dTDP)
+PE161abcpp,0.020688750376030077,"Phosphatidylethanolamine transport via ABC system (n-C16:1, periplasm)"
+TDSK,0.019113025988416018,Tetraacyldisaccharide 4'kinase
+LPADSS,0.019113025988416018,Lipid A disaccaride synthase
+MOAT,0.019113025988416018,3-deoxy-D-manno-octulosonic acid transferase
+USHD,0.019113025988416018,UDP-sugar hydrolase
+MOAT2,0.019113025988416014,3-deoxy-D-manno-octulosonic acid transferase
+K2L4Aabctex,0.019113025988416014,KDO(2)-lipid IV A transport via ABC system (periplasm to extracellular)
+K2L4Aabcpp,0.019113025988416014,KDO(2)-lipid IV A transport via ABC system (periplasm)
+FE2tpp,0.015777873684207938,Iron (+2) transport in via permease (no H+)
+FE2tex,0.015777873684207938,Iron (II) transport via diffusion (extracellular to periplasm)
+EX_fe2_e,-0.015777873684207938,Fe2+ exchange
+MCTP1App,0.013649073966028583,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm)
+DALAt2pp,0.013649073966028583,D-alanine transport in via proton symport (periplasm)
+MPTG,0.013649073966028581,Murein polymerizing transglycosylase
+MG2t3_2pp,0.008522075475406503,Magnesium (Mg+2) transport in/out via proton antiport (periplasm)
+EX_mg2_e,-0.008522075475406503,Mg exchange
+MG2tex,0.008522075475406503,Magnesium (Mg+2) transport via diffusion (extracellular to periplasm)
+FESR,0.00767035911377222,Iron-sulfur cluster repair
+EX_cl_e,-0.005113245285243902,Chloride exchange
+CLtex,0.005113245285243902,Chloride (Cl-1) transport via diffusion (extracellular to periplasm)
+CAt6pp,-0.005113245285243901,Calcium / sodium antiporter (1:1)
+ALAt2pp_copy2,-0.005113245285243901,L-alanine transport in via proton symport (periplasm)
+CA2tex,0.0051132452852439,Calcium (Ca+2) transport via diffusion (extracellular to periplasm)
+ALAt4pp,0.0051132452852439,L-alanine transport in via sodium symport (periplasm)
+EX_ca2_e,-0.0051132452852439,Calcium exchange
+FESD1s,0.00383517955688611,"Iron-sulfur cluster damage (peroxide, spontaneous)"
+GLUTRS,0.003505102627809844,Glutamyl-tRNA synthetase
+GLUTRR,0.003505102627809844,Glutamyl-tRNA reductase
+G1SAT,0.0035051026278098436,Glutamate-1-semialdehyde aminotransferase
+DXPS,0.002785024089081014,1-deoxy-D-xylulose 5-phosphate synthase
+CLt3_2pp,0.002556622642621951,Chloride transport out via proton antiport (2:1) (periplasm)
+GART,0.002409758056624785,GAR transformylase-T
+MECDPS,0.0023468862606047837,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+MECDPDH5,0.0023468862606047837,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase"
+MEPCT,0.0023468862606047833,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+CDPMEK,0.0023468862606047833,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+DXPRIi,0.0023468862606047833,1-deoxy-D-xylulose reductoisomerase
+IPDPS,0.0023468862606047833,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)
+ASPO6,0.00223784298939114,L-aspartate oxidase
+NNATr,0.0022378429893911396,Nicotinate-nucleotide adenylyltransferase
+QULNS,0.0022378429893911396,Quinolinate synthase
+NADS1,0.0022378429893911396,NAD synthase (nh3)
+NNDPR,0.0022378429893911396,Nicotinate-nucleotide diphosphorylase (carboxylating)
+ICYSDS,0.0017731811219721888,ISC Cysteine desulfuration
+PPBNGS,0.0017525513139049216,Porphobilinogen synthase
+MOX,0.0013782676532568547,Malate oxidase
+METAT,0.0008821698878284048,Methionine adenosyltransferase
+RBFSa,0.0008762756569526873,Riboflavin synthase
+DB4PS,0.0008762756569526872,"3,4-Dihydroxy-2-butanone-4-phosphate synthase"
+CU2tpp,0.0006965016152234248,Copper transport in via permease (no H+)
+EX_cu2_e,-0.0006965016152234247,Cu2+ exchange
+CU2tex,0.0006965016152234247,Copper (Cu+2) transport via diffusion (extracellular to periplasm)
+MN2tpp,0.0006788189225943391,Manganese transport in via permease (no H+)
+EX_mn2_e,-0.000678818922594339,Mn2+ exchange
+MNtex,0.000678818922594339,Manganese (Mn+2) transport via diffusion (extracellular to periplasm)
+PUNP1,-0.0006611362299648015,Purine-nucleoside phosphorylase (Adenosine)
+ADNK1,0.0006611362299648014,Adenosine kinase
+DHFS,0.0006572067427144782,Dihydrofolate synthase
+ADCS,0.0006572067427144782,4-amino-4-deoxychorismate synthase
+ADCL,0.000657206742714478,4-aminobenzoate synthase
+GCALDD,0.000657206742714478,Glycolaldehyde dehydrogenase
+HPPK2,0.000657206742714478,6-hydroxymethyl-dihydropterin pyrophosphokinase
+MALS,0.000657206742714478,Malate synthase
+DHPS2,0.000657206742714478,Dihydropteroate synthase
+DHNPA2r,0.000657206742714478,Dihydroneopterin aldolase reversible
+DNMPPA,0.0006572067427144779,Dihydroneopterin monophosphate dephosphorylase
+GLYCTO2,0.0006572067427144779,Glycolate oxidase
+DNTPPA,0.0006572067427144779,Dihydroneopterin triphosphate pyrophosphatase
+GTPCI,0.0006572067427144779,GTP cyclohydrolase I
+MOHMT,0.0005658461641307161,3-methyl-2-oxobutanoate hydroxymethyltransferase
+DPR,0.0005658461641306889,2-dehydropantoate 2-reductase
+PPCDC,0.0005658461641306731,Phosphopantothenoylcysteine decarboxylase
+PNTK,0.0005658461641306414,Pantothenate kinase
+PPNCL2,0.0005658461641306413,Phosphopantothenate-cysteine ligase
+PANTS,0.0005658461641306371,Pantothenate synthase
+ASP1DC,0.0005658461641305517,Aspartate 1-decarboxylase
+DPCOAK,0.0005658461641305055,Dephospho-CoA kinase
+PTPATi,0.0005658461641305054,Pantetheine-phosphate adenylyltransferase
+MPTSS,0.00047939744461076336,Molybdopterin synthase sulfurylase
+MOADSUx,0.00047939744461076336,"MoaD sulfuration (nadh, assumed)"
+DHPTDCs2,0.0004401025721012324,"4,5-dihydroxy-2,3-pentanedione cyclization (spontaneous)"
+MTHTHFSs,0.0004401025721012324,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran synthesis (spontaneous)"
+AHCYSNS,0.0004401025721012324,S-adenosylhomocysteine nucleosidase
+RHCCE,0.0004401025721012324,S-ribosylhomocysteine cleavage enzyme
+DM_mththf_c,0.0004401025721012323,"Sink needed to allow (2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran to leave system"
+NADK,0.0004391202002878129,NAD kinase
+DHPPDA2,0.0004381378284763437,Diaminohydroxyphosphoribosylaminopryrimidine deaminase (25drapp)
+APRAUR,0.0004381378284763437,5-amino-6-(5-phosphoribosylamino)uracil reductase
+RBFSb,0.0004381378284763437,Riboflavin synthase
+GTPCII2,0.00043813782847634364,GTP cyclohydrolase II (25drapp)
+PMDPHT,0.00043813782847634364,Pyrimidine phosphatase
+UPP3S,0.00043813782847623055,Uroporphyrinogen-III synthase
+HMBS,0.0004381378284762305,Hydroxymethylbilane synthase
+ZN2tpp,0.0003349887881398982,Zinc transport in via permease (no H+)
+EX_zn2_e,-0.0003349887881398982,Zinc exchange
+Zn2tex,0.0003349887881398982,Zinc (Zn+2) transport via diffusion (extracellular to periplasm)
+NI2tpp,0.00031730609551081275,Nickel (+2) transport in via permease (no H+)
+NI2tex,0.00031730609551081275,Nickel transport via diffusion (extracellular to periplasm)
+EX_ni2_e,-0.00031730609551081275,Ni2+ exchange
+I2FE2SS,0.0002809583384399148,ISC [2Fe-2S] Synthesis
+DMATT,0.00027309936393810395,Dimethylallyltranstransferase
+IPDDI,0.00027309936393810395,Isopentenyl-diphosphate D-isomerase
+GRTT,0.00027309936393810395,Geranyltranstransferase
+I2FE2SS2,0.0002554166713090135,ISC [2Fe-2S] Synthesis II
+I4FE4SR,0.0002554166713090134,ISC [4Fe-4S] Reduction
+I4FE4ST,0.0002554166713090134,ISC [4Fe-4S] Transfer
+CPMPS,0.0002396987223053818,Cyclic pyranopterin monophosphate synthase
+MPTAT,0.0002396987223053817,Molybdopterin adenylyltransferase
+MPTS,0.0002396987223053817,Molybdopterin synthase
+DM_5drib_c,0.00022103365786356919,Sink needed to allow 5'-deoxyribose to leave system
+5DOAN,0.00022103365786356919,5'-deoxyadenosine nuclosidase
+RBFK,0.0002190689142382284,Riboflavin kinase
+FMNAT,0.0002190689142382284,FMN adenylyltransferase
+OCTDPS,0.00021906891423811533,Octaprenyl pyrophosphate synthase
+UPP3MT,0.00021906891423811533,Uroporphyrinogen methyltransferase
+CHRPL,0.0002190689142381153,Chorismate pyruvate lyase
+OPHHX,0.0002190689142381153,2-Octaprenylphenol hydroxylase
+SHCHD2,0.0002190689142381153,Sirohydrochlorin dehydrogenase (NAD)
+OPHBDC,0.0002190689142381153,Octaprenyl-hydroxybenzoate decarboxylase
+HBZOPT,0.0002190689142381153,Hydroxybenzoate octaprenyltransferase
+SHCHF,0.0002190689142381153,Sirohydrochlorin ferrochelatase
+THZPSN3,0.00021906891423811528,Thiazole phosphate synthesis
+FCLT,0.00021906891423811528,Ferrochelatase
+TMPK,0.00021906891423811528,Thiamine-phosphate kinase
+TMPPP,0.00021906891423811528,Thiamine-phosphate diphosphorylase
+OHPBAT,0.00021906891423811528,O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase
+PDX5POi,0.00021906891423811528,Pyridoxine 5'-phosphate oxidase
+PPPGO3,0.00021906891423811528,Protoporphyrinogen oxidase (anaerobic)
+PMPK,0.00021906891423811525,Phosphomethylpyrimidine kinase
+TYRL,0.00021906891423811525,Tyrosine lyase
+CPPPGO,0.00021906891423811525,Coproporphyrinogen oxidase (O2 required)
+DM_4crsol_c,0.00021906891423811525,Sink needed to allow p-Cresol to leave system
+PDX5PS,0.00021906891423811525,Pyridoxine 5'-phosphate synthase
+AMPMS2,0.00021906891423811522,4-amino-2-methyl-5-phosphomethylpyrimidine synthetase
+UPPDC1,0.00021906891423811522,Uroporphyrinogen decarboxylase (uroporphyrinogen III)
+PERD,0.00021906891423811517,Erythronate 4-phosphate (4per) dehydrogenase
+E4PD,0.00021906891423811517,Erythrose 4-phosphate dehydrogenase
+MOBDabcpp,0.0001267259638417797,Molybdate transport via ABC system (periplasm)
+EX_mobd_e,-0.00012672596384177967,Molybdate exchange
+MOBDtex,0.00012672596384177967,Molybdate transport via diffusion (extracellular to periplasm)
+MOCOS,0.00011984936115269085,Molybdenum cofactor synthase
+BMOGDS1,0.00011984936115269085,Bis-molybdopterin guanine dinucleotide synthase (single GDP)
+BMOGDS2,0.00011984936115269084,Bis-molybdopterin guanine dinucleotide synthase
+BMOCOS,0.00011984936115269084,Bis-molybdenum cofactor synthase
+UDCPDPS,5.403044969998721e-05,Undecaprenyl diphosphate synthase
+I2FE2ST,2.7506410756355284e-05,ISC [2Fe-2S] Transfer
+COBALT2tex,2.455929531817436e-05,Cobalt (Co+2) transport via diffusion (extracellular to periplasm)
+COBALT2tpp,2.455929531817436e-05,Cobalt transport in via permease (no H+)
+EX_cobalt2_e,-2.455929531817436e-05,Co2+ exchange
+I2FE2SR,1.964743625453966e-06,ISC [2Fe-2S] regeneration
+AOXSr2,1.9647436254539484e-06,8-amino-7-oxononanoate synthase
+BTS5,1.9647436254539484e-06,Biotin synthase
+DM_amob_c,1.964743625453948e-06,Sink needed to allow S-Adenosyl-4-methylthio-2-oxobutanoate to leave system
+DBTS,1.964743625453948e-06,Dethiobiotin synthase
+AMAOTr,1.964743625453948e-06,Adenosylmethionine-8-amino-7-oxononanoate transaminase
+MALCOAMT,1.9647436250015613e-06,Malonyl-CoA methyltransferase
+OGMEACPR,1.964743625001561e-06,3-Oxo-glutaryl-[ACP] methyl ester reductase
+OGMEACPS,1.964743625001561e-06,3-Oxo-glutaryl-[ACP] methyl ester synthase
+OPMEACPD,1.9647436250015604e-06,3-Oxo-pimeloyl-[ACP] methyl ester dehydratase
+OGMEACPD,1.9647436250015604e-06,3-Oxo-glutaryl-[ACP] methyl ester dehydratase
+EPMEACPR,1.9647436250015604e-06,Enoylpimeloyl-[ACP] methyl ester reductase
+PMEACPE,1.9647436250015604e-06,Pimeloyl-[ACP] methyl ester esterase
+EGMEACPR,1.9647436250015604e-06,Enoylglutaryl-[ACP] methyl ester reductase
+OPMEACPR,1.9647436250015604e-06,3-Oxo-pimeloyl-[ACP] methyl ester reductase
+MEOHtrpp,-1.96474362500156e-06,Methanol reversible transport via diffusion (periplasm)
+MEOHtex,-1.96474362500156e-06,Methanol transport via diffusion (extracellular to periplasm)
+EX_meoh_e,1.96474362500156e-06,Methanol exchange
+OPMEACPS,1.96474362500156e-06,3-Oxo-pimeloyl-[ACP] methyl ester synthase

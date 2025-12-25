@@ -69,10 +69,10 @@ data/*.sbml
 data/*.json
 
 # Results (generated files)
-results/*.csv
-results/*.png
-results/*.jpg
-results/*.pdf
+#results/*.csv
+#results/*.png
+#results/*.jpg
+#results/*.pdf
 
 # OS generated files
 Thumbs.db
