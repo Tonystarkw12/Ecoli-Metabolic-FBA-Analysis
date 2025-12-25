@@ -290,11 +290,9 @@ docker-compose up
 
 ## 作者信息
 
-**周子航** - 清华大学CLS项目博士二年级  
+**周子航** - 清华大学CLS项目博士
 📧 邮箱：zhou-zh23@mails.tsinghua.edu.cn  
-🔗 GitHub：[你的GitHub用户名]
 
-**研究方向**：微生物代谢工程、合成生物学、系统生物学
 
 ## 引用本项目
 
